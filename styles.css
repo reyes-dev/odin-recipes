@@ -1,0 +1,75 @@
+body {
+    background-color: orange;
+    color: darkblue;
+    font-family: 'Philosopher', sans-serif;
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    text-decoration: underline wavy darkorange;
+    text-underline-offset: 15px;
+}
+
+h2 {
+        text-decoration: underline wavy darkorange;
+        text-underline-offset: 2px;
+}
+
+.saiyan {
+    display: block;
+    margin: auto;
+    border-radius: 10% / 50%;
+    bottom: 400px;
+    border: 3px solid darkorange;
+
+}
+
+.dragonball {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+    background-color: rgb(255, 136, 0);
+    border: solid darkorange .5px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.links {
+    text-align: center;
+}
+
+.left {
+    position: absolute;
+    bottom: 50%;
+    width: 200px;
+    height: auto;
+ 
+}
+
+.right {
+    position: absolute;
+    bottom: 50%;
+    right: 0%;
+    width: 200px;
+    height: auto;
+    
+}
+
+.recipe-img {
+    border-radius: 20px;
+    border: 3px solid darkorange;
+}
+
+.return {
+    position: fixed;
+    top: 5px;
+    left: 5px;
+}
