@@ -30,7 +30,7 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 19%;
 }
 
 a {
@@ -48,7 +48,7 @@ a {
 
 .left {
     position: absolute;
-    bottom: 50%;
+    bottom: 40%;
     width: 200px;
     height: auto;
  
@@ -56,7 +56,7 @@ a {
 
 .right {
     position: absolute;
-    bottom: 50%;
+    bottom: 40%;
     right: 0%;
     width: 200px;
     height: auto;
